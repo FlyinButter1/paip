@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2023-01-27T12:05:14.479Z" agent="5.0 (Windows)" version="20.8.13" etag="OAEmuSHNvv0cJFXjRXwt" type="github"><diagram name="Strona-1" id="U5VrZ17OruohutYCtmBM">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-27T12:25:15.498Z" agent="5.0 (Windows)" etag="e7irkI8QZpdatUjaYgsS" version="20.8.13" type="github">
+  <diagram name="Strona-1" id="U5VrZ17OruohutYCtmBM">
+    <mxGraphModel dx="659" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xPdEUd8B_LsteLS9x7TR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xPdEUd8B_LsteLS9x7TR-1" target="xPdEUd8B_LsteLS9x7TR-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xPdEUd8B_LsteLS9x7TR-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xPdEUd8B_LsteLS9x7TR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xPdEUd8B_LsteLS9x7TR-5" target="xPdEUd8B_LsteLS9x7TR-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xPdEUd8B_LsteLS9x7TR-5" value="&lt;div&gt;i = 1 &lt;br&gt;&lt;/div&gt;&lt;div&gt;int tablica[10]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xPdEUd8B_LsteLS9x7TR-13" value="Tak" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xPdEUd8B_LsteLS9x7TR-8" target="xPdEUd8B_LsteLS9x7TR-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xPdEUd8B_LsteLS9x7TR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xPdEUd8B_LsteLS9x7TR-8" target="xPdEUd8B_LsteLS9x7TR-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xPdEUd8B_LsteLS9x7TR-8" value="i&amp;lt;=10" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xPdEUd8B_LsteLS9x7TR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xPdEUd8B_LsteLS9x7TR-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="380" as="targetPoint" />
+            <mxPoint x="560" y="570" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="500" y="570" />
+              <mxPoint x="500" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xPdEUd8B_LsteLS9x7TR-12" value="&lt;div&gt;tablica[i] = i&lt;/div&gt;&lt;div&gt;i++&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xPdEUd8B_LsteLS9x7TR-15" value="STOP" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
