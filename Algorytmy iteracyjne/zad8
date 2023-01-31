@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T13:28:14.783Z" agent="5.0 (Windows)" etag="-fjlgYQ-0nCKPvarN1IJ" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T13:28:35.590Z" agent="5.0 (Windows)" etag="tjvhtxhs9bg-SL1nKYEn" version="20.8.13" type="github">
   <diagram name="Strona-1" id="U5VrZ17OruohutYCtmBM">
     <mxGraphModel dx="1050" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,7 +21,7 @@
         <mxCell id="xPdEUd8B_LsteLS9x7TR-13" value="Tak" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xPdEUd8B_LsteLS9x7TR-8" target="xPdEUd8B_LsteLS9x7TR-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xPdEUd8B_LsteLS9x7TR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xPdEUd8B_LsteLS9x7TR-8" target="xPdEUd8B_LsteLS9x7TR-15" edge="1">
+        <mxCell id="xPdEUd8B_LsteLS9x7TR-16" value="Nie" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xPdEUd8B_LsteLS9x7TR-8" target="xPdEUd8B_LsteLS9x7TR-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xPdEUd8B_LsteLS9x7TR-8" value="i&amp;lt;10" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
